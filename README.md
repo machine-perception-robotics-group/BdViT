@@ -1,4 +1,4 @@
-# BdViT
+# BdViT: Binary-decomposed Vision Transformer
 
 # Dataset
 Download the [ImageNet Large Scale Visual Recognition Challenge 2012](https://image-net.org/challenges/LSVRC/2012/) to `./BdViT`.
