@@ -49,7 +49,7 @@ If you change the comment out of `conv2d_binary` and `linear_binary_KA` in `bdnn
 Quantize bits and basis change `--qb`.
 ```
 cd BdDETR
-python3.10 test.py --batch_size 2 --no_aux_loss --eval --coco_path coco --weights ./weights/detr/detr-r50-e632da11.pth --qb 8
+python3.10 test.py --model deit_small --qb 8
 ```
 
 # bdnn_module
