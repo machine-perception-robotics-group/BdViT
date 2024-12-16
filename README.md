@@ -1,5 +1,11 @@
 # BdViT: Binary-decomposed Vision Transformer
 
+# Installation
+```
+sudo apt-get install python3-tk
+pip install -r requirements.txt   
+```
+
 # Dataset
 Download the [ImageNet Large Scale Visual Recognition Challenge 2012](https://image-net.org/challenges/LSVRC/2012/) to `./BdViT`.
 Execute `split_image.py` to extract `ILSVRC2012_img_val.tar` into a file that can be read by ImageFolder.
