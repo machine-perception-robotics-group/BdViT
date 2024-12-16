@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+timm==0.5.4
+numba
+numpy==1.26.4
+scikit-learn
